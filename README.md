@@ -1,2 +1,3 @@
 # bevy-prodecural-geometry
-using bevy to render procedurally generated 3d "terrain"
+
+using bevy to procedurally generate and render 3d "terrain"
